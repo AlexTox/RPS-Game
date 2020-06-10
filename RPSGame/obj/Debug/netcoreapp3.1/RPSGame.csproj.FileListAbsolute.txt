@@ -1,0 +1,13 @@
+F:\C#\Rock Paper Scissors\RPSGame\RPSGame\bin\Debug\netcoreapp3.1\RPSGame.exe
+F:\C#\Rock Paper Scissors\RPSGame\RPSGame\bin\Debug\netcoreapp3.1\RPSGame.deps.json
+F:\C#\Rock Paper Scissors\RPSGame\RPSGame\bin\Debug\netcoreapp3.1\RPSGame.runtimeconfig.json
+F:\C#\Rock Paper Scissors\RPSGame\RPSGame\bin\Debug\netcoreapp3.1\RPSGame.runtimeconfig.dev.json
+F:\C#\Rock Paper Scissors\RPSGame\RPSGame\bin\Debug\netcoreapp3.1\RPSGame.dll
+F:\C#\Rock Paper Scissors\RPSGame\RPSGame\bin\Debug\netcoreapp3.1\RPSGame.pdb
+F:\C#\Rock Paper Scissors\RPSGame\RPSGame\obj\Debug\netcoreapp3.1\RPSGame.csprojAssemblyReference.cache
+F:\C#\Rock Paper Scissors\RPSGame\RPSGame\obj\Debug\netcoreapp3.1\RPSGame.AssemblyInfoInputs.cache
+F:\C#\Rock Paper Scissors\RPSGame\RPSGame\obj\Debug\netcoreapp3.1\RPSGame.AssemblyInfo.cs
+F:\C#\Rock Paper Scissors\RPSGame\RPSGame\obj\Debug\netcoreapp3.1\RPSGame.csproj.CoreCompileInputs.cache
+F:\C#\Rock Paper Scissors\RPSGame\RPSGame\obj\Debug\netcoreapp3.1\RPSGame.dll
+F:\C#\Rock Paper Scissors\RPSGame\RPSGame\obj\Debug\netcoreapp3.1\RPSGame.pdb
+F:\C#\Rock Paper Scissors\RPSGame\RPSGame\obj\Debug\netcoreapp3.1\RPSGame.genruntimeconfig.cache
